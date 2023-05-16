@@ -210,7 +210,10 @@ section ul li:hover{
     color: purple;
     text-decoration: none;
 }
-
+.coremprego{
+    color: rgb(42, 216, 216);
+    text-decoration: none;
+}
 .secdetail{
     margin: auto;
 }
